@@ -1,2 +1,2 @@
-# AreaDeQualquerTriangulo
-já nesse repositório irei calcular  a área de qualquer triângulo 
+# AreaDoTrianguloSemSerRetangulo
+já nesse repositório irei calcular a área de um triângulo sem ser retângulo
